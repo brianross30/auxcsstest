@@ -116,3 +116,19 @@ a.nav-header-cp-anchor, a.nav-header-cp-anchor:active, a.nav-header-cp-anchor:ho
     text-align: center;
     z-index: 1;
 }
+
+.promotion-item__container {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    height: 100%;
+    -webkit-justify-content: start;
+    justify-content: start;
+    padding: 2px;
+    text-align: center;
+    vertical-align: top;
+    width: 100%;
+    background: black;
+        background-color: black;
+    color: black;
+    background-color: black;
+}
